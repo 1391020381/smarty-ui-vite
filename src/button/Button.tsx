@@ -72,7 +72,7 @@ export default defineComponent({
       >
         {" "}
         {props.icon !== "" ? (
-          <i class={`i-ic-baseline-${props.icon} p-4`}></i>
+          <i class={`i-ic-baseline-${props.icon} p-3`}></i>
         ) : (
           ""
         )}
