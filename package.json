@@ -20,6 +20,8 @@
   "license": "ISC",
   "devDependencies": {
     "@algolia/client-search": ">= 4.9.1 < 6",
+    "@commitlint/cli": "17.0.2",
+    "@commitlint/config-conventional": "17.0.2",
     "@iconify-json/ic": "1.1.4",
     "@typescript-eslint/eslint-plugin": "^5.42.1",
     "@typescript-eslint/parser": "^5.42.1",
