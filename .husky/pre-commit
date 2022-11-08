@@ -1,4 +1,9 @@
+# #!/bin/sh
+# . "$(dirname "$0")/_husky.sh"
+# echo('pnpm run lint')
+# pnpm run lint
 #!/bin/sh
-. "$(dirname "$0")/_husky.sh"
-console.log('xxxxxxxxxxxxx')
+. "$(dirname "$0")/_/husky.sh"
+
+# cd packages/smarty-ui-vite
 pnpm run lint
