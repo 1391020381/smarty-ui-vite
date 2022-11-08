@@ -1,4 +1,4 @@
-import { defineComponent, PropType, toRefs } from "vue";
+import { defineComponent, PropType } from "vue";
 import "uno.css";
 export type IColor =
   | "black"
