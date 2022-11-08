@@ -1,3 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_husky.sh"
+console.log('xxxxxxxxxxxxx')
 pnpm run lintpnpm lint
